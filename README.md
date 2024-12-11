@@ -1,7 +1,7 @@
 # Internship_w3_Assignment7
 
 
-## Vacation Rental Testing Automation
+## Vacation Rental Testing Automation using Selenium
 
 ## Table of Contents 
 1. [Overview](#overview) 
@@ -13,7 +13,7 @@
 
 
 ## Overview
-This project automates the testing of a vacation rental details page to validate essential elements and functionality. The automation script uses Python with the Selenium and Pandas libraries to perform the testing on the specific URL.
+This project automates the testing of a vacation rental details page to validate essential elements and functionality. The script will check for SEO impacted test cases such as h1 tag existence, html tag sequence, image alt attribute validation, available URLs are not broken, currency filter is working accordingly, and script data is recorded. The automation script uses Python with the Selenium and Pandas libraries to perform the testing on the specific page.
 
 --- 
 ## Key Features 
@@ -74,7 +74,7 @@ Navigate to reports/test_results.xlsx where all the test reports have been gener
 
 --- 
 
-## File Structure
+## Project Structure
 ```
 vacation_rental_testing/
 ├── reports/
